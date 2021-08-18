@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #34252F;
+}
+
+header h1{
+    margin: 0;
+    padding: 0; 
+    font-family: "Arial Black", "Gill Sans", sans-serif;
+    font-size: 6vw;
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: none;
+    background: #519872;
+    text-shadow: 2px 8px 6px rgba(0,0,0,0.2), 0px -5px 35px rgba(255,255,255,0.3); 
+}
