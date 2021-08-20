@@ -38,10 +38,11 @@ nav ul{
     padding: 1% 0 1%;
 }
 nav li{
-    font-size: 1.25vw;
+    font-size: 90%;
+    width: 5em;
     line-height: 1.5em;
     display: inline-block;
-    margin: 0 2.5%;
+    margin: 0 2.5% 1.5%;
     background-color: #3B5249;
     padding: 0 1.5%;
 }
