@@ -6,9 +6,18 @@ body{
 
 header h1{
     margin: 0;
+}
+.tree-of-life{
+    height: 4vw;
+    vertical-align: sub;
+    padding-left: 2vw;
+    position: relative; top:-0.3vw;
+}
+.header{
+    margin: 0;
     padding: 0; 
     font-family: "Arial Black", "Gill Sans", sans-serif;
-    font-size: 6vw;
+    font-size: 4vw;
     color: #000000;
     font-weight: 400;
     text-decoration: none;
@@ -17,4 +26,28 @@ header h1{
     text-transform: none;
     background: #519872;
     text-shadow: 2px 8px 6px rgba(0,0,0,0.2), 0px -5px 35px rgba(255,255,255,0.3); 
+}
+
+nav{
+    background: #519872;
+    height: 5%;
+}
+
+nav ul{
+    margin: 0;
+    padding: 1% 0 1%;
+}
+nav li{
+    font-size: 1.25vw;
+    line-height: 1.5em;
+    display: inline-block;
+    margin: 0 2.5%;
+    background-color: #3B5249;
+    padding: 0 1.5%;
+}
+
+nav a{
+    text-decoration: none;
+    color: #FFFFFF;
+    display: block;
 }
