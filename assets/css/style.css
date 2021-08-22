@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #34252F;
+    background: #34252F;
 }
 
 header h1{
@@ -38,11 +38,11 @@ nav ul{
     padding: 1% 0 1%;
 }
 nav li{
-    font-size: 90%;
+    font-size: 1.2rem;
     width: 5em;
     line-height: 1.5em;
     display: inline-block;
-    margin: 0 2.5% 1.5%;
+    margin: 0 1.5% 1.5%;
     background-color: #3B5249;
     padding: 0 1.5%;
 }
@@ -51,4 +51,9 @@ nav a{
     text-decoration: none;
     color: #FFFFFF;
     display: block;
+}
+
+.home-intro{
+    background: #519872;
+    padding: 0 1.5%;
 }
