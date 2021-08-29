@@ -51,13 +51,49 @@ nav a{
     display: block;
 }
 
+nav li:hover{
+    background-color: #A4B494;
+}
+
 .home-intro{
     background: #519872;
     padding: 0 1.5%;
 }
 
 .contact-section{
-    margin: 1em;
+    margin: 1em ;
+    padding: 0.25em;
     background: #519872;
     width: 50%;
+}
+
+.contact-table{
+    width: 100%;
+}
+
+.tableL{
+    width: 50%;
+    text-align: right;
+}
+
+.tableR{
+    width: 50%;
+    text-align: left;
+}
+
+.tableB{
+    width: 100%;
+    text-align: center;
+    margin: 1em 0;
+}
+
+.tableB button{
+    text-decoration: none;
+    color: #FFFFFF;
+    background-color: #34252F;
+    font-size: 1.2rem;
+}
+
+.tableB button:hover{
+    background-color: #A4B494;
 }
