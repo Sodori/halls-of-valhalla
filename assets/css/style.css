@@ -120,7 +120,6 @@ nav li:hover{
     justify-self: start;
     align-self: center;
     grid-area: description;
-    width: 60%;
 }
 
 .description ul{
