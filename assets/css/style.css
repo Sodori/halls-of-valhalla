@@ -121,6 +121,10 @@ nav li:hover{
     grid-area: description;
 }
 
+.description h2{
+    font-size: x-large;
+}
+
 .description ul{
     display: inline-block;
     font-size: large;
