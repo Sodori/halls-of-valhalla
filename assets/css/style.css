@@ -98,30 +98,52 @@ nav li:hover{
     background-color: #A4B494;
 }
 
-.character{
+.article{
+    height: 10em;
+    background-color: #519872;
     margin: 1em;
-    padding: 0.25em;
-    background: #519872;
-    max-height: 10em;
+    padding: 0.5em;
+
 }
 
-.character ul{
+.character {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas: "description image";
+}
+  
+.description {
+  
+    justify-self: start;
+    align-self: center;
+    grid-area: description;
+    width: 60%;
+}
+
+.description ul{
     display: inline-block;
 }
 
-.character img{
+.description h2{
+    margin-bottom: 0;
+}
+
+.description p{
+    margin: 0;
+    font-size: small;
+}
+  
+.image {
+    justify-self: start;
+    align-self: center;
+    grid-area: image;
+    width: 50%;
+}
+
+.image img{
     max-height: 10em;
     object-fit: contain;
-    
-}
-
-.character span{
-    max-width: 50%;
-    height: 10em;
-}
-
-.character table{
-    width: 100%;
-    text-align: left;
-    vertical-align: middle;
 }
