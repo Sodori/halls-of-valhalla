@@ -97,3 +97,31 @@ nav li:hover{
 .tableB button:hover{
     background-color: #A4B494;
 }
+
+.character{
+    margin: 1em;
+    padding: 0.25em;
+    background: #519872;
+    max-height: 10em;
+}
+
+.character ul{
+    display: inline-block;
+}
+
+.character img{
+    max-height: 10em;
+    object-fit: contain;
+    
+}
+
+.character span{
+    max-width: 50%;
+    height: 10em;
+}
+
+.character table{
+    width: 100%;
+    text-align: left;
+    vertical-align: middle;
+}
