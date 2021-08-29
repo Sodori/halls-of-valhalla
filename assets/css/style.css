@@ -21,9 +21,7 @@ header h1{
     color: #000000;
     font-weight: 400;
     text-decoration: none;
-    font-style: normal;
     font-variant: small-caps;
-    text-transform: none;
     background: #519872;
     text-shadow: 2px 8px 6px rgba(0,0,0,0.2), 0px -5px 35px rgba(255,255,255,0.3); 
 }
@@ -56,4 +54,14 @@ nav a{
 .home-intro{
     background: #519872;
     padding: 0 1.5%;
+}
+
+.contact-section{
+    margin: 1em;
+    background: #519872;
+    width: 50%;
+}
+
+.contact-table{
+    
 }
