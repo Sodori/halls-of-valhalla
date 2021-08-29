@@ -99,7 +99,7 @@ nav li:hover{
 }
 
 .article{
-    height: 10em;
+    height: 11em;
     background-color: #519872;
     margin: 1em;
     padding: 0.5em;
@@ -108,7 +108,7 @@ nav li:hover{
 
 .character {
     display: grid;
-    grid-template-columns: 1.5fr 1fr;
+    grid-template-columns: 2fr 1fr;
     grid-template-rows: 1fr;
     gap: 0px 0px;
     grid-auto-flow: row;
@@ -116,7 +116,6 @@ nav li:hover{
 }
   
 .description {
-  
     justify-self: start;
     align-self: center;
     grid-area: description;
@@ -124,15 +123,7 @@ nav li:hover{
 
 .description ul{
     display: inline-block;
-}
-
-.description h2{
-    margin-bottom: 0;
-}
-
-.description p{
-    margin: 0;
-    font-size: small;
+    font-size: large;
 }
   
 .image {
