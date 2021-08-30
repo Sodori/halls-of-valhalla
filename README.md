@@ -21,6 +21,7 @@ In this section, you should go over the different parts of your project, and des
 
   - Although nothing exclusive to this site, the Tree of Life is a ancient symbol that makes its pressence known on this site.
   - It is the crossroad in Norse mythology, and is deeply connected with Valhalla
+  - On smaller devices, automatically hide the title for less clutter
 
 <img src="assets/media/vector-celtic-trees.svg" width="500" alt="The tree of life">
 
@@ -28,11 +29,12 @@ In this section, you should go over the different parts of your project, and des
 
   - This is the main page, it is here you'll be drawn into the space, and to get into the atmosphere created in this site.
 
-<img src="assets/media/home.jpg" width="500" alt="The tree of life">
+<img src="assets/media/home.jpg" height="250" alt="The tree of life">
 
 - __Library__
 
   - Where all characters exist and are listed.
+  - Automatically hide images on small screens for better visibility of content
   - There is a small list of how they appear
   - As well as a image for visual aid
   - As well as a link to their backstories
