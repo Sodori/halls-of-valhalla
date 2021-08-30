@@ -61,6 +61,8 @@ nav li:hover{
 }
 
 .contact-section{
+    margin: 1em;
+    padding: 0.5em;
     background: #519872;
     width: 50%;
 }
