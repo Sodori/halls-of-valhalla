@@ -84,17 +84,22 @@ During testing and debugging, I found it delightfully challenging to ensure prop
 
 ## Deployment
 
-I did not have time for this.
+The live link can be found here - https://sodori.github.io/halls-of-valhalla/ 
 
 
 ## Credits 
 
-### Assets
+In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
 
-- https://www.w3schools.com/
-- https://developer.mozilla.org/
-- https://html-css-js.com/
+You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
-### Images
+### Content 
 
-All my images and media on this site disregarding the collected material for my characters witch files under another credit is taken from free licensed media.
+- The text for the Home page was taken from Wikipedia Article A
+- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
+### Media
+
+- The photos used on the home and sign up page are from This Open Source site
+- The images used for the gallery page were taken from this other open source site
