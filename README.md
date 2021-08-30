@@ -29,7 +29,7 @@ In this section, you should go over the different parts of your project, and des
 
   - This is the main page, it is here you'll be drawn into the space, and to get into the atmosphere created in this site.
 
-<img src="assets/media/home.jpg" height="250" alt="The tree of life">
+<img src="assets/media/home.jpg" height="250" alt="Home">
 
 - __Library__
 
@@ -46,7 +46,7 @@ In this section, you should go over the different parts of your project, and des
 
   - Here, you can aquire links to all the systems specified for further infomration about them
 
-![Games](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+<img src="assets/media/games.jpg" height="250" alt="Games">
 
 - __Comtact__
 
@@ -58,16 +58,16 @@ In this section, you should go over the different parts of your project, and des
 ### Features Left to Implement
 
 - More streamlined library, able to filter and read from database as well as easier adding new ones.
+- Better solution for games
+- Way of use character image as background with still visible text above when screen is small
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+Thorough testing done using multiple explorers as well as rezising them in inspection mode as well as opening the document on my phone and tablet to ensure as pleasant of an experience on as many platforms as possible.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+Most everything is responsive, and will scale to the needs of most any screen sizes and orientations today on the market.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+During testing and debugging, I found it delightfully challenging to ensure propper allignment of character portraits alligned with complementary text. It took me plenty of tries, but I got there in the end!
 
 
 ### Validator Testing 
@@ -79,7 +79,8 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+Contact message form I still need to fix
+Contact form unusable at this moment
 
 ## Deployment
 
