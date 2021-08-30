@@ -15,20 +15,20 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Library where all the characters are and contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/Sodori/halls-of-valhalla/blob/main/assets/media/navbar.png)
+![Nav Bar](assets/media/navbar.png)
 
 - __The tree of life__
 
   - Although nothing exclusive to this site, the Tree of Life is a ancient symbol that makes its pressence known on this site.
   - It is the crossroad in Norse mythology, and is deeply connected with Valhalla
 
-![The tree of life](https://github.com/Sodori/halls-of-valhalla/blob/main/assets/media/vector-celtic-trees.svg)
+<img src="assets/media/vector-celtic-trees.svg" width="500" alt="The tree of life">
 
 - __Home menu__
 
   - This is the main page, it is here you'll be drawn into the space, and to get into the atmosphere created in this site.
 
-![Club Ethos](https://github.com/Sodori/halls-of-valhalla/blob/main/assets/media/home.jpg)
+<img src="assets/media/home.jpg" width="500" alt="The tree of life">
 
 - __Library__
 
@@ -38,13 +38,13 @@ In this section, you should go over the different parts of your project, and des
   - As well as a link to their backstories
   - And information about what system they're created in.
 
-![Meetup Times](https://github.com/Sodori/halls-of-valhalla/blob/main/assets/media/library.jpg)
+![Library](assets/media/library.jpg)
 
 - __Games__
 
   - Here, you can aquire links to all the systems specified for further infomration about them
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Games](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
 - __Comtact__
 
