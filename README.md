@@ -2,7 +2,7 @@
 
 This site is a place to share works done for RolePlaying games. Hopefully, it can not only help display characters, but also inspire people not knowing what to create.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Dices](assets/media/dices.jpg)
 
 ## Features 
 
