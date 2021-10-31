@@ -1,3 +1,4 @@
+/* Styling of main header */
 body{
     margin: 0;
     padding: 0;
@@ -26,6 +27,7 @@ header h1{
     text-shadow: 2px 8px 6px rgba(0,0,0,0.2), 0px -5px 35px rgba(255,255,255,0.3); 
 }
 
+/* Styling of navigation bar */
 nav{
     background: #519872;
     height: 5%;
@@ -55,11 +57,13 @@ nav li:hover{
     background-color: #A4B494;
 }
 
+/* Specific styling of home page*/
 .home-intro{
     background: #519872;
     padding: 0 1.5%;
 }
 
+/* Specific styling of contact page*/
 .contact-section{
     margin: 1em;
     padding: 0.5em;
@@ -98,6 +102,7 @@ nav li:hover{
     background-color: #A4B494;
 }
 
+/* Specific styling of library page*/
 .article{
     background-color: #519872;
     margin: 1em;
@@ -142,6 +147,7 @@ nav li:hover{
     object-fit: contain;
 }
 
+/* Specific styling of games page*/
 .games{
     background-color: #519872;
     margin: 1em;
@@ -151,7 +157,7 @@ nav li:hover{
 
 
 
-
+/* Asserting specific parameters upon smaller screens*/
 @media screen and (max-width:430px) {
     .headtitle{
         display: none;
